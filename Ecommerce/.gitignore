@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment
+env/
+venv/
+.venv/
+
+# Django specific
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Migrations (اختياري: لو عايز تسيبها احذف السطر ده)
+*/migrations/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage / test
+.coverage
+*.cover
+htmlcov/
+
+# Other
+*.pot
+*.pyc
+*.mo
