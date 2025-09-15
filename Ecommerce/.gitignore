@@ -17,7 +17,7 @@ media/
 staticfiles/
 
 # Migrations (اختياري: لو عايز تسيبها احذف السطر ده)
-*/migrations/
+# */migrations/
 
 # OS files
 .DS_Store
